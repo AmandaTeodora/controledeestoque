@@ -3,10 +3,10 @@
 <h2>Lista de Funcionalidades</h2>
 
 <h3>Basico</h3>
-<li>Lista de produtos</li>
-<li>Criar Interface para a lista de produtos</li>
-<li>Conectar lista de produtos com um banco de dados</li>
-<li>Poder adicionar um item na lista de produtos</li>
+<ul>[] Lista de produtos</ul>
+<ul>[✔] Criar Interface para a lista de produtos</ul>
+<ul>[] Conectar lista de produtos com um banco de dados</ul>
+<ul>[] Poder adicionar um item na lista de produtos</ul>
 
 
 
