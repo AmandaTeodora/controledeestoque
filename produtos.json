@@ -1,0 +1,15 @@
+[
+    {
+        "id": "001",
+        "nome": "Prego",
+        "marca": "Gerdau"
+    },
+    {
+        "id": "002",
+        "nome": "Radie",
+        "marca": "Gerdau"
+    }
+    {   "id": "003",
+        "nome": "Vergalhão",
+        "marca": "Gerdau"}
+]
