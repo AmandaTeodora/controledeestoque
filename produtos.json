@@ -12,4 +12,46 @@
     {   "id": "003",
         "nome": "Vergalhão",
         "marca": "Gerdau"}
+
+    {   "id": "004",
+        "nome": "Treliça",
+        "marca": "Gerdau"}
+
+    {   "id": "005",
+        "nome": "Parafuso",
+        "marca": "Gerdau"}
+
+    {   "id": "006",
+        "nome": "Estribo",
+        "marca": "Gerdau"}
+
+    {   "id": "007",
+        "nome": "Tela Reforçada",
+        "marca": "Gerdau"}
+        {
+            "id": "008",
+            "nome": "Bica",
+            "marca": "Lorenzete"
+        }
+        {   "id": "009",
+            "nome": "Chuveiro",
+            "marca": "Lorenzete"}
+    
+        {   "id": "010",
+            "nome": "Tinta",
+            "marca": "Coral"}
+    
+        {   "id": "011",
+            "nome": "Massa Corrida",
+            "marca": "Coral"}
+    
+        {   "id": "012",
+            "nome": "Espatula",
+            "marca": "Generico"}
+    
+        {   "id": "013",
+            "nome": "licha",
+            "marca": "Gerdau"}
+
+       
 ]
