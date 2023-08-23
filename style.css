@@ -1,3 +1,6 @@
+*{
+    box-sizing: border-box;
+}
 body {
     margin: 0;
 }
@@ -8,15 +11,25 @@ body {
     border: 2px solid rgba(128, 128, 128, 0.89);
     padding: 1em;
     border-radius: 15px 15px 0 0;
+    display: flex;
 }
 .titulo {
+    margin: 0;
+    flex-grow: 1;
     
 }
 .adicinar {
+    
     
 
 }
 .buscar {
     
 
+}
+.conteudo{
+    width: 88vw;
+    margin: 0 auto 10vh;
+    background: rgba(128, 128, 128, 0.301);
+    border: 2px solid rgba(128, 128, 128, 0.89);
 }
