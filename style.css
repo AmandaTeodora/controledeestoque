@@ -2,17 +2,21 @@ body {
     margin: 0;
 }
 .Controle {
-    width: 80vw;
-    margin: 0 auto;
+    width: 88vw;
+    margin: 10vh auto 0;
     background: rgba(128, 128, 128, 0.671);
-
+    border: 2px solid rgba(128, 128, 128, 0.89);
+    padding: 1em;
+    border-radius: 15px 15px 0 0;
 }
 .titulo {
-
+    
 }
 .adicinar {
+    
 
 }
 .buscar {
+    
 
 }
