@@ -9,49 +9,67 @@
         "nome": "Radie",
         "marca": "Gerdau"
     }
-    {   "id": "003",
+    {
+        "id": "003",
         "nome": "Vergalhão",
-        "marca": "Gerdau"}
+        "marca": "Gerdau"
+    }
 
-    {   "id": "004",
+    {
+        "id": "004",
         "nome": "Treliça",
-        "marca": "Gerdau"}
+        "marca": "Gerdau"
+    }
 
-    {   "id": "005",
+    {
+        "id": "005",
         "nome": "Parafuso",
-        "marca": "Gerdau"}
+        "marca": "Gerdau"
+    }
 
-    {   "id": "006",
+    {
+        "id": "006",
         "nome": "Estribo",
-        "marca": "Gerdau"}
+        "marca": "Gerdau"
+    }
 
-    {   "id": "007",
+    {
+        "id": "007",
         "nome": "Tela Reforçada",
-        "marca": "Gerdau"}
+        "marca": "Gerdau"
+    }
+    {
+        "id": "008",
+        "nome": "Bica",
+        "marca": "Lorenzete"
+    }
+    {
+        "id": "009",
+        "nome": "Chuveiro",
+        "marca": "Lorenzete"
+    }
+    
         {
-            "id": "008",
-            "nome": "Bica",
-            "marca": "Lorenzete"
-        }
-        {   "id": "009",
-            "nome": "Chuveiro",
-            "marca": "Lorenzete"}
+        "id": "010",
+        "nome": "Tinta",
+        "marca": "Coral"
+    }
     
-        {   "id": "010",
-            "nome": "Tinta",
-            "marca": "Coral"}
+        {
+        "id": "011",
+        "nome": "Massa Corrida",
+        "marca": "Coral"
+    }
     
-        {   "id": "011",
-            "nome": "Massa Corrida",
-            "marca": "Coral"}
+        {
+        "id": "012",
+        "nome": "Espatula",
+        "marca": "Generico"
+    }
     
-        {   "id": "012",
-            "nome": "Espatula",
-            "marca": "Generico"}
-    
-        {   "id": "013",
-            "nome": "licha",
-            "marca": "Gerdau"}
-
-       
+        {
+        "id": "013",
+        "nome": "licha",
+        "marca": "Gerdau"
+    }
 ]
