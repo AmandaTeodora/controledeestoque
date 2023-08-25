@@ -1,9 +1,11 @@
 *{
     box-sizing: border-box;
 }
+
 body {
     margin: 0;
 }
+
 .Controle {
     width: 88vw;
     margin: 10vh auto 0;
@@ -13,23 +15,54 @@ body {
     border-radius: 15px 15px 0 0;
     display: flex;
 }
+
 .titulo {
     margin: 0;
     flex-grow: 1;
     
 }
+
 .adicinar {
     
     
-
 }
+
 .buscar {
     
 
 }
+
 .conteudo{
     width: 88vw;
     margin: 0 auto 10vh;
     background: rgba(128, 128, 128, 0.301);
     border: 2px solid rgba(128, 128, 128, 0.89);
+    border-top: nome;
+    border-radius: 0 0 15px 15px;
+    border-collapse: collapse;
 }
+
+.conteudo th, .conteudo td{
+    text-align: left;
+    padding-left: 5px;
+    padding: 5px 10px 5px 5px;
+}
+.topico {
+    color: white;
+
+}
+
+.topico th {
+    background: #333;
+    
+
+}
+.conteudo tr:nth-child(odd) {
+    background-color: #eee
+}
+
+.conteudo tr:nth-child(even) {
+    background-color: #ccc
+}
+
+
