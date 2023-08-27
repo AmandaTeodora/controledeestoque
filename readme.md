@@ -11,5 +11,8 @@
 <ul>[] Poder remover um item da lista de produtos
 <ul>[] Criar interface para poder remover um item na lista de produtos
 <ul>[] Adicionar quantidade de itens na lista de produtos 
+<ul>[] Criar interface para poder adicionar um item na lista de produtos
+<ul>[] Poder alterar a quantidade de itens de um produto especifico
+
 
 
