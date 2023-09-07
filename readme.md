@@ -5,7 +5,7 @@
 ### Basico
 <ul>[✔] Lista de produtos com um identificador para cada item
 <ul>[✔] Criar Interface para a lista de produtos</ul>
-<ul>[] Conectar lista de produtos com um banco de dados</ul>
+<ul>[✔] Conectar lista de produtos com um banco de dados</ul>
 <ul>[] Poder adicionar um item na lista de produtos</ul>
 <ul>[] Criar interface para poder adicionar um item na lista de produtos
 <ul>[] Poder remover um item da lista de produtos
